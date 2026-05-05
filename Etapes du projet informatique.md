@@ -22,7 +22,7 @@ Dans le cas de ce projet :
 
 > “Permettre aux futurs consommateurs de consulter la description et la documentation des API existantes et de faire le choix de celles qui seront utiles pour leur projet.”
 
-## Spécifications (Qu’est-ce qu’on va faire exactement ?)
+## 2. Spécifications (Qu’est-ce qu’on va faire exactement ?)
 
 But : définir ce que fait l’application, pas comment elle est codée.
 
@@ -41,7 +41,7 @@ But : définir ce que fait l’application, pas comment elle est codée.
 
 > L'Université adore cette étape
 
-## Conception (Comment on va le faire)
+## 3. Conception (Comment on va le faire)
 
 But : transformer le besoin en solution technique.
 
@@ -66,7 +66,7 @@ But : transformer le besoin en solution technique.
 
 > Ici apparaîssent les langauges de programmation, frameworks, API, ESB...
 
-## Développement
+## 4. Développement
 
 But : écrire le code.
 
@@ -86,7 +86,7 @@ Bonnes pratiques
 
 > Pour un stage : c’est la plus longue phase.
 
-## Tests et validation
+## 5. Tests et validation
 
 But : vérifier que ça fonctionne comme prévu.
 
@@ -105,7 +105,7 @@ But : vérifier que ça fonctionne comme prévu.
 
 > Très bon point pour la note finale.
 
-## Déploiement / Livraison
+## 6. Déploiement / Livraison
 
 But : rendre l’application utilisable.
 
@@ -122,7 +122,7 @@ But : rendre l’application utilisable.
 
 > Même un déploiement “test” compte.
 
-## Documentation & retour d’expérience
+## 7. Documentation & retour d’expérience
 
 But : montrer que le projet est maîtrisé.
 
