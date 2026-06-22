@@ -2,11 +2,9 @@
 
 ## Semaine 1
 
-- Lundi 22 : accueil, tour du pythagore, installation des outils
+- Lundi 22 : accueil, tour du pythagore, installation des outils, établir la communication
 
 - 
-
-
 
 ## Installation des outils
 
@@ -20,8 +18,18 @@
 
 5. Installer Docker + outils associés pour le développement
 
+## Établir la communication
+
+- Outil privilégié : Teams
+  
+  - Créer un canal Teams spécifique
+
+- Une réunion chaque lundi ou chaque vendredi pour coordination et suivi du projet
+
+- Participation optionnelle à la réunion ESB
+
+- Accès dépôts Forge
+
 ## Périmètre du développement
 
 - Établir le périmètre du stage : types d'API, forme du catalogue...
-
-
