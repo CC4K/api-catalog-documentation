@@ -2,9 +2,9 @@
 
 ## Semaine 1
 
-- Lundi 22 : accueil, tour du pythagore, installation des outils, établir la communication
+- Lundi 22 : accueil, tour du pythagore, installation des outils
 
-- 
+- Mardi 23 : établir la communication
 
 ## Installation des outils
 
@@ -24,11 +24,13 @@
   
   - Créer un canal Teams spécifique
 
-- Une réunion chaque lundi ou chaque vendredi pour coordination et suivi du projet
+- Une réunion chaque vendredi 8h30-9h30 pour coordination et suivi du projet, 
+
+- Mini standup le matin 8h30
 
 - Participation optionnelle à la réunion ESB
 
-- Accès dépôts Forge
+- Accès dépôts Forge --> fait
 
 ## Périmètre du développement
 
