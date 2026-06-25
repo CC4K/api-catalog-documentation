@@ -6,6 +6,10 @@
 
 - Mardi 23 : établir la communication
 
+- Mercredi 24 : apictl et API Admin v4
+
+- Jeudi 25 : besoins et organisation du travail
+
 ## Installation des outils
 
 1. Installer la machine en Ubuntu LTS
