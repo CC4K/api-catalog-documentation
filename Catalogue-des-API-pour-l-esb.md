@@ -10,6 +10,10 @@
 
 - Jeudi 25 : besoins et organisation du travail
 
+## Semaine 2
+
+Architecture et conception. 
+
 ## Installation des outils
 
 1. Installer la machine en Ubuntu LTS
